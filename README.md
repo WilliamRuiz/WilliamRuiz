@@ -32,8 +32,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical)  
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamRuiz&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRuiz&layout=compact&theme=radical)  
 
 ---
 
